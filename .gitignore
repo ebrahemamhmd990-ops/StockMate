@@ -1,0 +1,14 @@
+﻿# Java compiled files
+out/
+*.class
+
+# Local database and test data
+data/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# IDE and temporary files
+.vscode/
+*.log
